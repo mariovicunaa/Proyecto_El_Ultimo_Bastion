@@ -1,1 +1,0 @@
-Sin cambios La IA detalla que: ya estaba implementado íntegramente en el sprint anterior como parte del núcleo del motor. 
